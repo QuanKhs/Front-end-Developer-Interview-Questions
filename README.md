@@ -97,6 +97,10 @@ This file contains a number of front-end interview questions that can be used wh
 * How is responsive design different from adaptive design?
 * Have you ever worked with retina graphics? If so, when and what techniques did you use?
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
+* How is clearfix css property useful?
+* Can you explain the difference between px, em and rem as they relate to font sizing?
+* Can you give an example of a pseudo class? Can you provide an example use case for a pseudo class?
+* What is the difference between a block level element and an inline element. Can you provide examples of each type of element?
 
 #### JS Questions:
 
@@ -152,6 +156,19 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * What is event loop?
   * What is the difference between call stack and task queue?
 * Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
+* What are the differences between variables created using let, var or const?
+* What are the differences between ES6 class and ES5 function constructors?
+* Can you offer a use case for the new arrow => function syntax? How does this new syntax differ from other functions?
+* What advantage is there for using the arrow syntax for a method in a constructor?
+* What is the definition of a higher-order function?
+* Can you give an example for destructuring an object or an array?
+* Can you give an example of generating a string with ES6 Template Literals?
+* Can you give an example of a curry function and why this syntax offers an advantage?
+* What are the benefits of using spread syntax and how is it different from rest syntax?
+* How can you share code between files?
+* Why you might want to create static class members?
+* What is the difference between while and do-while loops in JavaScript?
+* What is a promise? Where and how would you use promise?
 
 #### Testing Questions:
 
