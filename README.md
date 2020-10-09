@@ -61,6 +61,7 @@ This file contains a number of front-end interview questions that can be used wh
 * Why is it generally a good idea to position CSS `<link>`s between `<head></head>` and JS `<script>`s just before `</body>`? Do you know any exceptions?
 * What is progressive rendering?
 * Have you used different HTML templating languages before?
+* What is the difference between canvas and svg?
 
 #### CSS Questions:
 
